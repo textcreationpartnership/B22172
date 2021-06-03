@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament to appoint and enable committees in the severall counties of Buckingham, Oxon, and Berks, to put in execution this present ordinance and severall other ordinances of both houses of Parliament.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22172</idno><idno type="EEBO-CITATION">12055947</idno>
+  <idno type="VID">196759</idno>
+  <idno type="EEBO-PROQUEST">2240949466</idno>
+  
+            <idno type="STC">Wing E2090</idno>
+            <idno type="OCLC">12055947</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22172)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196759)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 237:E52, no 19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament to appoint and enable committees in the severall counties of Buckingham, Oxon, and Berks, to put in execution this present ordinance and severall other ordinances of both houses of Parliament.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husbands ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Iune 27, 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>For raising money and troops.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Taxation --  England.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196759:1"/>
+            <p> AN ORDINANCE OF THE Lords and Commons Assembled in PARLIAMENT, TO Appoint and Enable Committees in the severall Counties of <hi>Buckingham, Oxon,</hi> and <hi>Berks,</hi> to put in Execution this present Ordinance, and severall other Ordinan<g ref="char:EOLhyphen"/>ces of both Houses of <hi>Parliament.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Commons Assembled in Parliament that this Ordinance be forth<g ref="char:EOLhyphen"/>with printed and published.</p>
+                        <closer>
+                           <signed>Henry Elsyng, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Husbands,</hi> and are to be sold at his shop in the Middle-Temple. Iune 27. 1644.</p>
+            <pb facs="tcp:196759:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb n="3" facs="tcp:196759:2"/>
+            <head>An Ordinance of the Lords and Commons Assembled in Parliament, to Appoint and enable Committees in the severall Counties of <hi>Buckingham, Oxon,</hi> and <hi>Berks,</hi> to put in execution this present Ordinance, and severall other Ordinances of both Houses of Par<g ref="char:EOLhyphen"/>liament.</head>
+            <p>FOr the better Execution of the Orders and Ordinances of Parliament in the severall Counties of <hi>Berks, Buckingham,</hi> and <hi>Oxon,</hi> and for the Raising of Money and Forces within the said Counties for suppressing the Rebels there, and for the maintenance of all such Garrisons within the said Coun<g ref="char:EOLhyphen"/>ties, as are, or shall be Erected by Authority of Parliament for the better defence of the same: The Lords and Commons Assembled in Parliament, do hereby Constitute and Ap<g ref="char:EOLhyphen"/>point,</p>
+            <pb n="4" facs="tcp:196759:3"/>
+            <p> FOr the County of Berks, <hi>William Lenthall</hi> Esq; Speaker <note place="margin">Berks.</note> of the House of Common<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and Master of the Rolls, Sir <hi>Francis Kno<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is,</hi> Knight, sir <hi>Francis Pile,</hi> Baronet, sir <hi>Robert Pye,</hi> Senior, sir <hi>B<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>niamin Rudyard, Richard Whitehead, Edmund Dunch, Henry Martin, Peregrine Hobby, Tanfield Ʋachell, Da<g ref="char:EOLhyphen"/>niel Blagrave,</hi> Sergeant Major Generall <hi>Richard Browne, Willi<g ref="char:EOLhyphen"/>am Ball, Iohn Pack<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi> senior, <hi>Robert Packer,</hi> and <hi>Cornelius Holland.</hi>
+            </p>
+            <p>For the County of Buckingham, <hi>Thomas</hi> Lord Viscount <note place="margin">Buckingham</note>
+               <hi>Wenman,</hi> sir <hi>Peter T<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mple</hi> Knight and Baronet, <hi>Richard Win<g ref="char:EOLhyphen"/>wood▪ Bulstroude Whitlock</hi> Esquire, sir <hi>William Andrews,</hi> sir <hi>Ri<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hard Pigott,</hi> and sir <hi>William Cobb,</hi> Knights, <hi>Isaack Penning<g ref="char:EOLhyphen"/>ton</hi> Lieutenant of the Tower, <hi>George Fleetwood</hi> Esq; sir <hi>Richard Ingol<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sby</hi> knight, <hi>Anthony Radcliff, Thomas Lane, Thomas Fountaine, Edward Woodward, Peter Dormer, Richard Serge<g ref="char:EOLhyphen"/>ant, Henry Beake, Anthony Carpenter, Symond Mayne, Edmund W<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st, Thomas White, Thomas Ayres, Thomas Scot, Iohn Pot<g ref="char:EOLhyphen"/>ter, Thomas Ligoe, Iohn Lane, William Theed</hi> of Craston, <hi>Thomas Wheeler, Iohn Doylie,</hi> sir <hi>Gilbert Gerard</hi> Baronet, <hi>Chri<g ref="char:EOLhyphen"/>stopher Henn, Thomas Wyan,</hi> and <hi>John Barringer.</hi> Gent. and Major Generall <hi>Richard Browne.</hi>
+            </p>
+            <p>For the County of Oxon, <hi>Thomas</hi> Lord Viscount <hi>Wenman,</hi>
+               <note place="margin">Oxon.</note>
+               <hi>William L<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll,</hi>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>peaker of the House of Commons, and Ma<g ref="char:EOLhyphen"/>ster of the Roles, <hi>James Fines, Iohn Fines</hi> Esquires, Sir <hi>Peter Femole,</hi> Knight and Barone<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Sir <hi>William Cobb,</hi> Knight, <hi>Iohn Doylie, Thomas Knight, William Typping, Robert Scrope, Ed<g ref="char:EOLhyphen"/>ward Clerk<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Edmund Dunch,</hi> and <hi>Bulstrode Whitlock<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Esquires, Sir <hi>Peter W<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntworth,</hi> Knight of the Bathe, Sir <hi>Nathaniel Brent,</hi> Knight, and Sergeant Major Generall <hi>Richard Browne;</hi> To be Committees of Parliam<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt for the said severall Counties respectively. And do hereby authorize them, or any three of them respectively, to put in execution within the said severall and respective Coun<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies, the severall Ordinances of Parliament ensuing <hi>(viz.)</hi> The Ordinance for voluntarie Loanes, and Contributions to the Parliament, the Ordinance for Weekely
+<pb n="5" facs="tcp:196759:3"/> Assessements, The Ordinance for the fifth and Twentieth part, The Ordinance for the Sequestration of Papists and de<g ref="char:EOLhyphen"/>ljnquents Estates, according to the true meaning of the said Or<g ref="char:EOLhyphen"/>dinances. And the said Committees of the severall Counties, or any three or more of them respectively, shall have power within their severall Counties to Assesse, Taxe and Levie, or cause to be Assessed, Taxed, and Levied, upon the said Counties what summe, or summes of money, they shall thinke the said Coun<g ref="char:EOLhyphen"/>ties are severally able to pay, not exceeding four hundred pounds a weeke, upon any one of the said Counties, with such power for the Assessing, Leavying and Collecting the same, and with such allowances as by the Ordinance of the weekly assessement is provided. And it is hereby declared that the severll summes of money, Raised or to bee Raised within the said Counties, And also all such summes of money as shall be hereafter raised within the said severall Counties by vertue of the Ordinan<g ref="char:EOLhyphen"/>ces of Excise, be received and disposed of, for the raising and maintaining of all such Forces, as are or shall be raised for the reducing, and defence of the severall Counties aforesaid. And it is further Ordained and Declared, that the severall Committees, or the Major part of them, within their severall Counties respectively, shall appoint a Treasurer who shall receive all such monies a<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> shall be Assessed, and Collected within the said Coun<g ref="char:EOLhyphen"/>ties respectively, and shall from time to time issue out such mo<g ref="char:EOLhyphen"/>nies for the necessary uses of the said Counties, for the purpo<g ref="char:EOLhyphen"/>ses aforesaid, as any three or more of the Committ<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ees of the said Counties respectively, shall by the vote of the Major part of the respective Committees, or of any three of them then pre<g ref="char:EOLhyphen"/>sent order; and shall by writing under their hands appoint, and not otherwise. And it is also Ordained that every Colle<g ref="char:EOLhyphen"/>ctor, shall have foure pence in the pound for every summe of money by him Collected and paid to the Treasurer, and also two pence in the pound shall be allowed to the Treasurer for all monies by him received and issued out by Warrant as aforesaid. And be it Ordained that the said Committees, or any three of them respectively, shall have power from time to time, to assigne, and by their severall Ministers and Officers, to cut and take sufficient Timber, standing, or being upon the
+<pb n="6" facs="tcp:196759:4"/> lands of Papists or Delinquents for the making of Fortifications in such Towns and places of any of the said Counties, as by three or more of the Committees of every of the said Counties respectively shall be thought fit, expressing the same by warrant under their hands.</p>
+            <p>And be it further Ordained that the Committees of the said Counties or any three of them respectively, shall hereby have Power and Authority from time to time to Demand and take an Account of all Musters that shall be made by the severall Commissaries of the said Counties, And that every Captain both of Horse and Foote, and every other Superi<g ref="char:EOLhyphen"/>our or Inferiour Officer, whose pay comes to ten shillings a day, or above, shall take but halfe the pay due unto him, and respit the other halfe upon the Publique Faith, untill the War shall be ended; and every Officer, whose pay commeth to five shillings a day or more, and under Ten shilling a day, shall ac<g ref="char:EOLhyphen"/>cept of two parts of three, of such pay due unto him, and re<g ref="char:EOLhyphen"/>spit the other third part upon the Publique Faith, untill the Warre be ended. And when there is three Moneths pay due unto any of them, a Certificate thereof under the hands of the said Committees, or any three of them respectively shalbe a sufficient warrant to such Officer to demand &amp; receive the said Monies owing upon the Publique Faith as aforesaid.</p>
+            <p>And be it further Ordained that Nine, or more of the Com<g ref="char:EOLhyphen"/>mittees aforesaid, whereof three at least of every of the said Counties respectively, shall have power to Assemble them<g ref="char:EOLhyphen"/>selves together, as often as they shall thinke fit, to advise and direct all things that they shall think fit for the more speedy and effectuall execution of this Ordinance, in all or any of the said Counties.</p>
+            <p>And be it likewise ordained that the Committees of the said severall and respective Counties, or any five or more of them respectively, shall have power to secure the persons of all dan<g ref="char:EOLhyphen"/>gerous delinquents residing in the said severall Counties, and to call before them, or any five or more of them respectively all Ministers, and Schoole-masters that are scandalous in their lives, or ill-affected to the Parliament, or that have diserted their Cures, or ordinary places of residence, not having a sufficient
+<pb n="7" facs="tcp:196759:4"/> ground for their absence, and they or any five or more of them respectively shall have power to examine any complaint against them, upon the Oathes of such persons as shall or may be pro<g ref="char:EOLhyphen"/>duced to give evidence against them; and the said Committees▪ or any five of them respectively, shall have power to administer such Oath accordingly, and shall have power (upon proofe of their delinquency) to remove such as they or any five or more of them respectively shall judge unfit for their places, and se<g ref="char:EOLhyphen"/>quester their Estates and Revenues, and to place other well qualified persons in their roome, such as shall be approved by three godly and learned Divines, residing in any of the said Counties respectively.</p>
+            <p>And be it ordained that the said Committees, and every one of them respectively, and every other person or persons, that shall be ayding or assisting to them, or any of them respectively in the doing▪ or executing any thing by vertue of this Ordi<g ref="char:EOLhyphen"/>nance, shall be defended and saved harmelesse therein by au<g ref="char:EOLhyphen"/>thority of both Houses of Parliament. And be it further ordai<g ref="char:EOLhyphen"/>ned that the said Committees in the said severall Counties, or a<g ref="char:EOLhyphen"/>ny three or more of them respectively in each severall County, shall have power to administer the Nationall Covenant to such person or persons as they shall thinke fit; and to send up all such as shall refuse to take the same Covenant unto the Committees of Parliament for Examinations, to be proceeded against as the said Committee of Examinations shall thinke fit.</p>
+            <p>And be it further ordained, that there shall not any Monies, or Provision be raised in any of the said Counties during the continuance of this Ordinance, by vertue of any former Ordi<g ref="char:EOLhyphen"/>nanc or Order, other then such as shall be imployed fo<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the purposes, and in such manner as in this present Ordinance is provided.</p>
+            <p>And be it further ordained, that the persons herein named for Committees, or any other person or persons who have ad<g ref="char:EOLhyphen"/>vanced, or shall advance any Horses, Plate, Armes, or Money, or maintaine any souldiers, Horse or Foote for this service, shall be fully satisfied and repaid all such monies as they shall dis<g ref="char:EOLhyphen"/>burse, with interest after the rate of eight pound <hi>per cent.</hi> and
+<pb n="8" facs="tcp:196759:5"/> the value of such Horses, Plate, and Armes, as they shall fur<g ref="char:EOLhyphen"/>nish and maintaine for t<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s service▪ out of <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he monies to be rai<g ref="char:EOLhyphen"/>sed by the new Excise, and out of such monies as shall be raised by vertue of this Ordinance; which payments shall be made to them by such Treasurer or Treasurer<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that shall be appointed f<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> severall Counti<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> respectively, upon a War<g ref="char:EOLhyphen"/>rant give<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ee or more of the said Com<g ref="char:EOLhyphen"/>mittees <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> County respectively.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
